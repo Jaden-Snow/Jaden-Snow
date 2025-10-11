@@ -1,5 +1,5 @@
-Hey there earthlings tribe members of the ever expanding tech war, I am here to bring quality AND assurance as well as quality assurance to your quadrant of the net!!!
-I did not start in tech I was once a young man traveling the lonely roads of upstate New York, hammering out whatever jobs came my way such as appliances, electrical, plumbing, Excavation, and carpentry.
+Hey there earthlings, tribe members of the ever expanding tech war, I am here to bring quality AND assurance as well as quality assurance to your quadrant of the net!!!
+I did not start in tech, I was once a young man traveling the lonely roads of upstate New York, hammering out whatever jobs came my way such as appliances, electrical, plumbing, Excavation, and carpentry.
 These jobs were typically in a commercial setting, they helped me gather a lot of valuable problem solving skills and knowledge that made me into the beast I am today.
 
 I’ve been involved in tech since 2022, when I first explored virtual machines and cybersecurity. That experience sparked my interest and made me realize I wanted to pursue technology as a career. After experimenting with different areas, I discovered my ideal path in Quality Assurance Automation — where I can combine analytical thinking, precision, and automation to ensure high software reliability.
