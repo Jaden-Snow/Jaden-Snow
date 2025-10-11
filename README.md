@@ -1,7 +1,29 @@
 ## Hi there 👋
 # Hey There! 👋
 **I'm Thijs** - I'm a fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
+Full Stack Developer | Typescript · NextJS · Node · AWS
+<!--
+**WinterAmlaw/WinterAmlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+[![React Badge](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
+[![Express.js Badge](https://img.shields.io/badge/-Express.js-000?logo=express&style=flat)](https://expressjs.com/)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)](https://tailwindcss.com/)
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 Check out my [portfolio](https://thijs.gg).
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
