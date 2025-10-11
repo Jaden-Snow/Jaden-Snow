@@ -15,7 +15,7 @@ I specialize in front-end quality assurance, automation scripting, and UI testin
 
  Experienced in designing and executing automated end-to-end tests using Cypress.
 
- foundation in JavaScript, HTML, and CSS for front-end validation and test script development.
+ Foundation in JavaScript, HTML, and CSS for front-end validation and test script development.
 
  Skilled at identifying defects, writing detailed bug reports, and collaborating with dev teams to improve release quality.
 
