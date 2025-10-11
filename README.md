@@ -1,86 +1,37 @@
-## Hi there 👋
-# Hey There! 👋
-**I'm Thijs** - I'm a fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
-Full Stack Developer | Typescript · NextJS · Node · AWS
-<!--
-**WinterAmlaw/WinterAmlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
 
-Here are some ideas to get you started:
+I'm Jaden Snow — a QA Engineer focused on building efficient, reliable, and automated testing workflows.
+I specialize in front-end quality assurance, automation scripting, and UI testing that ensures products perform flawlessly across browsers and devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-[![React Badge](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
-[![Express.js Badge](https://img.shields.io/badge/-Express.js-000?logo=express&style=flat)](https://expressjs.com/)
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)](https://tailwindcss.com/)
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-Check out my [portfolio](https://thijs.gg).
+QA Engineer | Cypress · JavaScript · HTML · CSS
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
-[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
+🧠 About Me
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+🧪 Experienced in designing and executing automated end-to-end tests using Cypress.
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-<!--
-**Jaden-Snow/Jaden-Snow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+🧰 Strong foundation in JavaScript, HTML, and CSS for front-end validation and test script development.
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+🔍 Skilled at identifying defects, writing detailed bug reports, and collaborating with dev teams to improve release quality.
 
-```txt
-TypeScript   9 hrs 37 mins   ██████████████████░░░░░░░   71.45 %
-HTML         2 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 %
-Python       40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-```
+⚙️ Familiar with CI/CD pipelines, Git-based workflows, and test data management.
 
-<!--END_SECTION:waka-->
+🚀 Continuously expanding into security testing, API automation, and AI-powered QA tools to enhance testing coverage and speed.
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+🎯 Long-term goal: transition from QA engineering into cybersecurity and AI automation.
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+🧰 Tech Stack
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+^ These icons are one of my projects!
+
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
